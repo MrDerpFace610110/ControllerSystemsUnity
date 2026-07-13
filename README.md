@@ -26,7 +26,7 @@
 ---
 
 ## What's Included
-The `.unitypackage` contains all the scripts included in this repo plus the additonal ones used for the 3 demos.
+The `.unitypackage` in the releases contains all the scripts included in this repo plus the additonal ones used for the 3 demos.
 
 ### Demo Scenes
 
