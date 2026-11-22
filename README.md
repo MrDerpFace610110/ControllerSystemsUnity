@@ -11,7 +11,7 @@
 ## Current Features:
 - **Multiple controller support**
 - **Switching between keyboard and controller** for player 1
-- **RUmble Effects** (One-shot and continuous)
+- **Rumble Effects** (One-shot and continuous)
 - **Device-based glyphs**
 - **Controller UI navigation**
 - **Input rebinding during runtime**
